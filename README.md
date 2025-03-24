@@ -89,7 +89,7 @@
 
 ## 📝 Documentation
 This repository includes :
-- [Technical Report]("Report.pdf")
+- Technical Report
 - Microsoft Report Builder Reports
     * Report 1 : Athlete Participation Trends Analysis Report
     * Report 2 : Athlete Performance Analysis Report
